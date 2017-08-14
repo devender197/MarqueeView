@@ -183,6 +183,7 @@ public class MarqueeText extends HorizontalScrollView {
     }
 
     void initComponent(){
+
         textListenerArrayList = new ArrayList<>();
         DisplayMetrics displayMetrics = context.getResources().getDisplayMetrics();
         width = displayMetrics.widthPixels;
