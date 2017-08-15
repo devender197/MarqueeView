@@ -1,4 +1,4 @@
-package com.library.custom.marqueeview;
+package devlibrary.org.marqueviewlibrary;
 
 import android.content.Context;
 import android.util.AttributeSet;
